@@ -1,4 +1,4 @@
-package com.eldric.study;
+package com.eldric.streams;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

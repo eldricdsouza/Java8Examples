@@ -14,7 +14,6 @@ public class FunctionalInterfaceExample2 {
         Shape triangle = new Triangle();
         Shape circle = new Circle();
 
-
         rectangle.displayArea();
         triangle.displayArea();
         circle.displayArea();
